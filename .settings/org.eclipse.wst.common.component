@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="TPINT_GRUPO_5_LAB4">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/apache-tomcat-8.5.81/webapps/docs/appdev/sample/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/apache-tomcat-8.5.81/webapps/examples/WEB-INF/classes"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/apache-tomcat-8.5.81/work/Catalina/localhost/AppWeb_Controles_Validacion"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/apache-tomcat-8.5.81/work/Catalina/localhost/ROOT"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/apache-tomcat-8.5.81/work/Catalina/localhost/TPINT_GRUPO_5_LAB4"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/TPINT_GRUP_5_LAB4/src"/>
+        <property name="context-root" value="TPINT_GRUPO_5_LAB4"/>
+        <property name="java-output-path" value="/TPINT_GRUPO_5_LAB4/TPINT_GRUP_5_LAB4/build/classes"/>
+    </wb-module>
+</project-modules>

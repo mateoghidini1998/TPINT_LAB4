@@ -1,0 +1,73 @@
+
+@charset "ISO-8859-1";
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+body {
+	background-image: linear-gradient(90deg, rgba(84,170,132,0.9108018207282913) 42%, rgba(74,140,204,1) 100%) !important;
+	background-size: 110em;
+	font-size:22px;
+	color: #ffffff;
+	word-wrap: break-word !important;
+	font-family: 'Roboto', sans-serif;
+	}
+
+h1, h2, h3, h4 {
+	font-family: 'Bree Serif', 'serif' !important;
+	text-align: center;
+	color: #FFF;
+}	
+
+
+h1 a, h2 a, h3 a {
+	color: #FFF;
+}
+
+a {
+	color: #FFF;
+}
+
+.container{
+	display:flex;
+	text-align:center;
+	align-items:center;
+	
+}
+
+
+.row{
+	margin:0 auto;
+}
+
+
+.btn-outline-info,
+.btn-outline-primary{
+	background-color:white;
+	border: 2px solid #28a745;
+	color: #28a745;
+}
+
+
+.btn-outline-info:hover,
+.btn-outline-primary:hover{
+	background-color:#218838;
+	border: #218838;
+	color:white;
+}
+
+.disponibilidad{
+	border:2px solid white;
+	border-radius: 15px;
+}
+
+.tabla{
+	
+	padding:20px;
+	flex-direction:column;
+}
+
+.table-title{
+	margin-left:0 auto;
+}
+
